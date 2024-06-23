@@ -1,1 +1,1 @@
-# Product-Landing-Page
+# Product-Landing-Page and image cropping
